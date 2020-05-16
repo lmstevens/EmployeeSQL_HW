@@ -1,1 +1,1 @@
-# EmployeeSQL_HW
+sql-challenge
